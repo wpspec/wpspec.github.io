@@ -6,7 +6,7 @@ layout: base.njk
 
 # Hello World! I'm a pseudo Web Developer
 
-Blogging about random stuff. Mostly webdev, Legends Of Runeterra, other nerdy things, etc.
+Blogging about random stuff. Mostly webdev, Legends Of Runeterra, other stuff.
 
 ## Recent Blog Posts
 <ul>
