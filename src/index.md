@@ -4,9 +4,9 @@ layout: base.njk
 ---
 
 
-# Hello World! I'm a pseudo Web Developer
+# Hi! I'm Isaiah
 
-Blogging about random stuff. Mostly webdev, Legends Of Runeterra, other stuff.
+Blogging about random stuff. Mostly webdev.
 
 ## Recent Blog Posts
 <ul>
