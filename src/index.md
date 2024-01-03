@@ -4,7 +4,7 @@ layout: base.njk
 ---
 
 
-# Hi! I'm Isaiah
+# Hi! I'm Isaiah Harrison
 
 Blogging about random stuff. Mostly webdev.
 
