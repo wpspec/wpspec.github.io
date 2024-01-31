@@ -1,10 +1,10 @@
 ---
-title: Isaiah Harrison
+title: Homepage
 layout: base.njk
 ---
 
 
-# Hi! I'm Isaiah Harrison
+# Hi! I'm Isaiah.
 
 Blogging about random stuff. Mostly webdev.
 
