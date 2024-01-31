@@ -6,7 +6,7 @@ layout: base.njk
 
 # Hi! I'm Isaiah.
 
-Blogging about random stuff. Mostly webdev.
+Blogging about random stuff. Mostly webdev. Sometimes about my interests.
 
 ## Recent Blog Posts
 <ul>
