@@ -3,10 +3,7 @@ title: Homepage
 layout: base.njk
 ---
 
-
-# Hi! I'm Isaiah
-
-Blogging about random stuff. Mostly webdev. Sometimes about my interests.
+Blog about random stuff. Mostly webdev. Sometimes about my interests.
 
 ## Blog Posts
 <ul>
