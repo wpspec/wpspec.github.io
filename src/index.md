@@ -3,7 +3,7 @@ title: Homepage
 layout: base.njk
 ---
 
-Blog about random stuff. Mostly webdev. Sometimes about my interests.
+Blog about webdev. Sometimes about my interests.
 
 ## Blog Posts
 <ul>
